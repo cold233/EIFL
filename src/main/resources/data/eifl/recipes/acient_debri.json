@@ -1,0 +1,51 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "eifl:lava_and_chocolate_soaked_diamond_decorated_boneblock"
+  },
+  "loops": 3,
+  "results": [
+    {
+      "chance": 300,
+      "item": "minecraft:ancient_debris"
+    },
+    {
+      "chance": 10,
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "chance": 10,
+      "item": "minecraft:stone"
+    },
+    {
+      "chance": 5,
+      "item": "minecraft:bone"
+    },
+    {
+      "chance": 3,
+      "item": "minecraft:diamond"
+    }
+  ],
+  "sequence":[
+    {
+      "type":"create:deploying",
+      "ingredients": [
+        {
+          "item":"eifl:lava_and_chocolate_soaked_diamond_decorated_boneblock"
+        },
+        {
+          "item":"minecraft:nautilus_shell"
+        }
+      ],
+      "results": [
+        {
+          "item":"eifl:lava_and_chocolate_soaked_diamond_decorated_boneblock"
+        }
+      ]
+    }
+  ],
+  "transitionalItem":
+  {
+    "item": "eifl:lava_and_chocolate_soaked_diamond_decorated_boneblock"
+  }
+}

@@ -1,0 +1,19 @@
+{
+    "type":"create:compacting",
+    "heatRequirement":"heated",
+    "ingredients":[
+        {
+            "item":"minecraft:coal_block"
+        },
+        {
+            "amount":8100,
+            "fluid":"minecraft:lava",
+            "nbt":{}
+        }
+    ],
+    "results":[
+        {
+            "item":"minecraft:diamond"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:bone_block"
+  },
+  "loops": 3,
+  "results": [
+    {
+      "chance": 300,
+      "item": "eifl:diamond_decorated_boneblock"
+    },
+    {
+      "chance": 10,
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "chance": 10,
+      "item": "minecraft:stone"
+    },
+    {
+      "chance": 5,
+      "item": "minecraft:bone"
+    },
+    {
+      "chance": 5,
+      "item": "minecraft:diamond"
+    }
+  ],
+  "sequence":[
+    {
+      "type":"create:deploying",
+      "ingredients": [
+        {
+          "item":"minecraft:bone_block"
+        },
+        {
+          "item": "minecraft:diamond"
+        }
+      ],
+      "results": [
+        {
+          "item":"minecraft:bone_block"
+        }
+      ]
+    }
+  ],
+  "transitionalItem":
+  {
+    "item": "minecraft:bone_block"
+  }
+}

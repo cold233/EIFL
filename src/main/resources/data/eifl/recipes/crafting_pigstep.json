@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "N",
+        "B"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:nether_wart"
+        },
+        "N": {
+            "item": "minecraft:netherite_block"
+        },
+        "B": {
+            "item": "minecraft:brewing_stand"
+        }
+    },
+    "result": {
+        "item": "minecraft:music_disc_pigstep",
+        "count": 1
+    }
+}

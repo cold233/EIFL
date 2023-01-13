@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "eifl:block/unfinished_end_portal_frame_top",
+    "side": "eifl:block/unfinished_end_portal_frame_side"
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "FPF",
+        "F F"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:string"
+        },
+        "F": {
+            "item": "minecraft:feather"
+        },
+        "P": {
+            "item": "minecraft:phantom_membrane"
+        }
+    },
+    "result": {
+        "item": "minecraft:elytra",
+        "count": 1
+    }
+}

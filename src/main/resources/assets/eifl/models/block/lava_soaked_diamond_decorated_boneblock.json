@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "eifl:block/dldb_top",
+    "side": "eifl:block/dldb_side"
+  }
+}

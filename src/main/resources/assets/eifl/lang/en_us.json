@@ -1,0 +1,17 @@
+{
+  "item.eifl.test_item": "Test item",
+  "item.eifl.crushed_ancient_debris": "Crushed Ancient Debris",
+  "item.eifl.test_item.tooltip": "Catastrophic consequence happen in test phase of a mod.",
+  "item.eifl.diamond_decorated_boneblock": "Diamond Decorated Bone Block",
+  "block.eifl.diamond_decorated_boneblock": "Diamond Decorated Bone Block",
+  "item.eifl.lava_soaked_diamond_decorated_boneblock": "Lava Soaked Diamond Decorated Bone Block",
+  "block.eifl.lava_soaked_diamond_decorated_boneblock": "Lava Soaked Diamond Decorated Bone Block",
+  "item.eifl.lava_and_chocolate_soaked_diamond_decorated_boneblock": "Lava and Chocolate Soaked Diamond Decorated Bone Block",
+  "block.eifl.lava_and_chocolate_soaked_diamond_decorated_boneblock": "Lava and Chocolate Soaked Diamond Decorated Bone Block",
+  "item.eifl.lava_and_chocolate_soaked_diamond_and_shell_decorated_boneblock": "Lava and Chocolate Soaked Diamond and Shell Decorated Bone Block",
+  "block.eifl.lava_and_chocolate_soaked_diamond_and_shell_decorated_boneblock": "Lava and Chocolate Soaked Diamond and Shell Decorated Bone Block",
+  "item.eifl.unfinished_end_portal_frame": "Unfinished End Portal Frame",
+  "block.eifl.unfinished_end_portal_frame": "Unfinished End Portal Frame",
+  "item.eifl.eifl.test_item.trick": "A player get killed due to unlettered.",
+  "itemGroup.eifl.item": "Floating Island Extra Items"
+}

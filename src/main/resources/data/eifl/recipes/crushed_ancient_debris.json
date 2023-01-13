@@ -1,0 +1,23 @@
+{
+  "type":"create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:ancient_debris"
+    }
+  ],
+  "processingTime": 800,
+  "results": [
+    {
+      "item": "eifl:crushed_ancient_debris",
+      "count": 2
+    },
+    {
+      "chance": 0.5,
+      "item": "eifl:crushed_ancient_debris"
+    },
+    {
+      "chance": 0.75,
+      "item": "create:experience_nugget"
+    }
+  ]
+}

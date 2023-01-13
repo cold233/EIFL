@@ -1,0 +1,17 @@
+{
+  "item.eifl.test_item": "测试物品",
+  "item.eifl.crushed_ancient_debris": "粉碎远古残骸",
+  "item.eifl.test_item.tooltip": "测试阶段的mod时常发生灾难性的事情",
+  "item.eifl.diamond_decorated_boneblock": "镶钻骨块",
+  "block.eifl.diamond_decorated_boneblock": "镶钻骨块",
+  "item.eifl.lava_soaked_diamond_decorated_boneblock": "岩浆浸泡的镶钻骨块",
+  "block.eifl.lava_soaked_diamond_decorated_boneblock": "岩浆浸泡的镶钻骨块",
+  "item.eifl.lava_and_chocolate_soaked_diamond_decorated_boneblock": "岩浆与巧克力浸泡的镶钻骨块",
+  "block.eifl.lava_and_chocolate_soaked_diamond_decorated_boneblock": "岩浆与巧克力浸泡的镶钻骨块",
+  "item.eifl.lava_and_chocolate_soaked_diamond_and_shell_decorated_boneblock": "岩浆与巧克力浸泡镶嵌钻石与贝壳的骨块",
+  "block.eifl.lava_and_chocolate_soaked_diamond_and_shell_decorated_boneblock": "岩浆与巧克力浸泡镶嵌钻石与贝壳的骨块",
+  "item.eifl.unfinished_end_portal_frame": "未完成末地门框架",
+  "block.eifl.unfinished_end_portal_frame": "未完成末地门框架",
+  "item.eifl.test_item.trick": "某玩家因为不识字而死。",
+  "itemGroup.eifl.item": "浮空岛额外物品"
+}

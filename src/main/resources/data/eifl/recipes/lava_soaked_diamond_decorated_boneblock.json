@@ -1,0 +1,53 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "eifl:diamond_decorated_boneblock"
+  },
+  "loops": 3,
+  "results": [
+    {
+      "chance": 300,
+      "item": "eifl:lava_soaked_diamond_decorated_boneblock"
+    },
+    {
+      "chance": 10,
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "chance": 10,
+      "item": "minecraft:stone"
+    },
+    {
+      "chance": 5,
+      "item": "minecraft:bone"
+    },
+    {
+      "chance": 3,
+      "item": "minecraft:diamond"
+    }
+  ],
+  "sequence":[
+    {
+      "type":"create:filling",
+      "ingredients": [
+        {
+          "item":"eifl:diamond_decorated_boneblock"
+        },
+        {
+          "amount":2700,
+          "fluid":"minecraft:lava",
+          "nbt":{}
+        }
+      ],
+      "results": [
+        {
+          "item":"eifl:diamond_decorated_boneblock"
+        }
+      ]
+    }
+  ],
+  "transitionalItem":
+  {
+    "item": "eifl:diamond_decorated_boneblock"
+  }
+}

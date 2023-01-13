@@ -1,0 +1,80 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+        "item": "compressor:compressed_end_stone"
+    },
+    "loops": 4,
+    "results": [
+        {
+            "chance": 300,
+            "item": "minecraft:end_portal_frame"
+        },
+        {
+            "chance": 10,
+            "item": "minecraft:end_stone"
+        },
+        {
+            "chance": 10,
+            "item": "minecraft:shulker_shell"
+        },
+        {
+            "chance": 5,
+            "item": "minecraft:popped_chorus_fruit"
+        },
+        {
+            "chance": 5,
+            "item": "minecraft:purpur_block"
+        }
+    ],
+    "sequence":[
+        {
+            "type":"create:deploying",
+            "ingredients": [
+                {
+                    "item": "compressor:compressed_end_stone"
+                },
+                {
+                    "item": "minecraft:shulker_shell"
+                }
+            ],
+            "results": [
+                {
+                    "item":"eifl:unfinished_end_portal_frame"
+                }
+            ]
+        },
+        {
+            "type":"create:deploying",
+            "ingredients": [
+                {
+                    "item": "eifl:unfinished_end_portal_frame"
+                },
+                {
+                    "item": "minecraft:ender_eye"
+                }
+            ],
+            "results": [
+                {
+                    "item":"eifl:unfinished_end_portal_frame"
+                }
+            ]
+        },
+        {
+            "type":"create:pressing",
+            "ingredients": [
+                {
+                    "item": "eifl:unfinished_end_portal_frame"
+                }
+            ],
+            "results": [
+                {
+                    "item":"eifl:unfinished_end_portal_frame"
+                }
+            ]
+        }
+    ],
+    "transitionalItem":
+    {
+        "item": "eifl:unfinished_end_portal_frame"
+    }
+}

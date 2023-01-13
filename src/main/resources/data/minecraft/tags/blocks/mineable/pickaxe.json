@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "eifl:diamond_decorated_boneblock",
+    "eifl:lava_soaked_diamond_decorated_boneblock",
+    "eifl:lava_and_chocolate_soaked_diamond_decorated_boneblock",
+    "eifl:lava_and_chocolate_soaked_diamond_and_shell_decorated_boneblock",
+    "eifl:unfinished_end_portal_frame"
+  ]
+}

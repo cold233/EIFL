@@ -1,0 +1,18 @@
+{
+  "type": "create:compacting",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "compressor:quadruple_compressed_stone"
+    },
+    {
+      "item": "minecraft:netherite_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:bedrock",
+      "count": 2
+    }
+  ]
+}
