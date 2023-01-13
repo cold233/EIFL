@@ -1,6 +1,4 @@
 # EIFL
-A minecraft mod to add extra items and recipes for Floating Island of Create. 一个用来向Minecraft机械动力空岛中添加额外物品与配方的mod。
-
 Extra Items for Floating Island
 浮空岛额外物品
 依赖: Minecraft: 1.19.2
